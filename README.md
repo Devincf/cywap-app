@@ -1,16 +1,4 @@
-# cywap_app
+# cypwap-app
+cypwap or "control your pc with a phone" is an application used to enable lightweight remote controlling of your pc (mainly mouse and keyboard) with your phone.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the repository for the phone app. For the repository containing code run on the pc please see https://github.com/Devincf/cypwap-backend/
